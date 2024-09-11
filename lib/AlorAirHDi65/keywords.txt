@@ -1,0 +1,6 @@
+begin	KEYWORD2
+status	KEYWORD2
+print_status	KEYWORD2
+set_power KEYWORD2
+set_target_humidity	KEYWORD2
+pumpout	KEYWORD2
